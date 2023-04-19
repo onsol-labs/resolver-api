@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@onsol/tldparser": "^0.5.2",
+    "@portal-payments/solana-wallet-names": "^1.2.5",
+    "@solana/web3.js": "^1.75.0",
     "@types/node": "18.15.11",
     "@types/react": "18.0.37",
     "@types/react-dom": "18.0.11",
