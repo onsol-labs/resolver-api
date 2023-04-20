@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@onsol/tldparser": "^0.5.2",
-    "@portal-payments/solana-wallet-names": "^1.2.5",
+    "@portal-payments/solana-wallet-names": "github:onsol-labs/solana-wallet-names#build-fix-with-prepare",
     "@solana/web3.js": "^1.75.0",
     "@types/node": "18.15.11",
     "@types/react": "18.0.37",
